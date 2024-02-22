@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mdrc0931
-- 👀 I’m interested in surgery / firefighters and programmation 
+- 👀 I’m interested in surgery / firefighters and web dev / app dev
 
 <!---
 Mdrc0931/Mdrc0931 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
